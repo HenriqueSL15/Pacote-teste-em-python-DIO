@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="pacote_teste_henrybyte",
-    version="0.1",
+    version="0.2",
     author="Henrique",
     author_email="henry135790@outlook.com",
     description="Simple package to test",

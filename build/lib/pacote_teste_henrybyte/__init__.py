@@ -1,2 +1,2 @@
-from count import sum
-from hello_world import log
+from .count import sum
+from .hello_world import log
