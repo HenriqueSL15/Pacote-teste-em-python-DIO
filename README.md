@@ -12,16 +12,16 @@ The package Pacote Teste HenryByte is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pacote_teste_henrybyte
 
 ```bash
-pip install pacote_teste
+pip install pacote_teste_henrybyte
 ```
 
 ## Usage
 
 ```python
-from pacote_teste import hello_world
+from pacote_teste_henrybyte import hello_world
 hello_world.log("Hello World")
 
-from pacote_teste import count
+from pacote_teste_henrybyte import count
 count.sum(1, 2)
 ```
 
