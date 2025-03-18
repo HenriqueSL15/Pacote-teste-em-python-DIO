@@ -1,0 +1,9 @@
+README.md
+setup.py
+pacote_teste_henrybyte/__init__.py
+pacote_teste_henrybyte/count.py
+pacote_teste_henrybyte/hello_world.py
+pacote_teste_henrybyte.egg-info/PKG-INFO
+pacote_teste_henrybyte.egg-info/SOURCES.txt
+pacote_teste_henrybyte.egg-info/dependency_links.txt
+pacote_teste_henrybyte.egg-info/top_level.txt

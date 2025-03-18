@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: pacote_teste_henrybyte
+Version: 0.1
+Summary: Simple package to test
+Home-page: https://github.com/HenriqueSL15/Pacote-teste-em-python-DIO
+Author: Henrique
+Author-email: henry135790@outlook.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Pacote Teste
+
+Description.
+
+The package Pacote Teste HenryByte is used to:
+
+- Give a function to print "Hello World"
+- Give a function to sum 2 numbers
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pacote_teste_henrybyte
+
+```bash
+pip install pacote_teste
+```
+
+## Usage
+
+```python
+from pacote_teste import hello_world
+hello_world.log("Hello World")
+
+from pacote_teste import count
+count.sum(1, 2)
+```
+
+## Author
+
+Henrique
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
