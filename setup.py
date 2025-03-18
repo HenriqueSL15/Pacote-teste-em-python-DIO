@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     page_description = f.read()
 
 setup(
-    name="pacote_teste",
+    name="pacote_teste_henrybyte",
     version="0.1",
     author="Henrique",
     author_email="henry135790@outlook.com",
